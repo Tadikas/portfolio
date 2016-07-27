@@ -1,0 +1,35 @@
+body {
+  background-color: #FFD;
+}
+#about {
+  font-family: monospace;
+  background-color: #AAF;
+  padding-top:70px;
+  padding-bottom: 100px;
+}
+
+#portfolio {
+  font-family: monospace;
+  background-color: #AFA;
+  padding-top:70px;
+  padding-bottom: 100px;
+}
+
+#contact {
+  font-family: monospace;
+  background-color: #FAA;
+  padding-top:70px;
+  padding-bottom: 100px;
+}
+
+img {
+  padding-top: 70px;
+}
+
+.navbar {
+background-color: #777;
+}
+
+ul {
+text-color: #CCC;
+}
